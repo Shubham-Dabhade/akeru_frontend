@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/akeru_frontend/static/css/main.c6f5bf74.css",
+    "main.js": "/akeru_frontend/static/js/main.239d2e65.js",
+    "static/media/video1.mp4": "/akeru_frontend/static/media/video1.d5e4839fc3b57dda2441.mp4",
+    "index.html": "/akeru_frontend/index.html",
+    "main.c6f5bf74.css.map": "/akeru_frontend/static/css/main.c6f5bf74.css.map",
+    "main.239d2e65.js.map": "/akeru_frontend/static/js/main.239d2e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f5bf74.css",
+    "static/js/main.239d2e65.js"
+  ]
+}
